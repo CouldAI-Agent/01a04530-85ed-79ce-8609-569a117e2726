@@ -103,7 +103,7 @@ class ProposalPage extends StatelessWidget {
                   context,
                   title: '5. Investment',
                   content:
-                      'The total fixed cost for this comprehensive assessment is $15,000 USD. This includes all discovery sessions, technical analysis, and the final presentation of findings to your leadership team.',
+                      'The total fixed cost for this comprehensive assessment is \\$15,000 USD. This includes all discovery sessions, technical analysis, and the final presentation of findings to your leadership team.',
                   icon: Icons.attach_money,
                 ),
                 const SizedBox(height: 40),
